@@ -39,7 +39,6 @@ Link do layout usado no projeto:
 
 ## 💻 Projeto
 
-O Desafio é utlizar o recurso de responsividade!
 
 - [Acesse o projeto finalizado, online](https://brunobianchi13.github.io/Desafio-SPA-Universe/)
 
