@@ -1,0 +1,106 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root{
+  font-size: 62.5%;
+}
+
+body{
+  font-size: 1.6rem;
+  font-family: 'Roboto', sans-serif;
+  background: transparent;
+  
+  
+}
+
+.img-home{
+  background: url("assets/home.png") no-repeat ;
+  background-size: 100% 100vh;
+}
+
+.img-universo{
+  background: url("assets/universo.png") no-repeat ;
+  background-size: 100% 100vh;
+}
+
+.img-exploracao{
+  background: url("assets/exploracao.png") no-repeat ;
+  background-size: 100% 100vh;
+}
+
+nav{
+  display: flex;
+  align-items: center;
+  gap: 4.5rem;
+  background: transparent;
+  padding: 4rem 0 4rem 7.2rem;
+}
+
+nav a{
+  color: #C4C4CC;
+  font-family: 'Roboto';
+  font-size: 2.4rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 2.2rem;
+  text-decoration: none;
+}
+
+.cont-home{
+  display: grid;
+  
+  
+}
+
+.cont-home h1{
+  text-align: center;
+  color: #E1E1E6;
+  font-family: 'Roboto';
+  font-size: 4.8rem;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 125%;
+  margin-top: 17.2rem;
+  margin-bottom: 2.4rem;
+  
+}
+
+.cont-home p{
+  justify-self: center;
+  display: inline-flex;
+  padding: 1.2rem 3.2rem;
+  justify-content: center;
+  align-items: center;
+  border-radius: .5rem;
+  border: .2rem solid #FFF;
+  color: white;
+  cursor: pointer;
+  
+}
+
+
+
+
+.cont h1{
+  margin: 6.3rem 0 1.6rem 10.2rem;
+  color: #E1E1E6;
+  font-family: 'Roboto';
+  font-size: 4.8rem;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 125%;
+  
+  
+}
+
+.cont p{
+  margin:  0 113rem 0 10.2rem;
+  justify-content: center;
+  align-items: center;
+  
+  color: white;
+  
+}
